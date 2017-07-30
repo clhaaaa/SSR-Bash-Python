@@ -141,7 +141,7 @@ systemctl enable iptables.service
 fi
 
 #Install SSR-Bash Background
-wget -N --no-check-certificate -O /usr/local/bin/ssr https://raw.githubusercontent.com/${GH_REPO}/master/ssr
+wget -N --no-check-certificate -O /usr/local/bin/ssr https://raw.githubusercontent.com/ImAnyOne/SSR-Bash-Python/master/ssr
 chmod +x /usr/local/bin/ssr
 
 #Modify ShadowsocksR API
