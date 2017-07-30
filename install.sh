@@ -60,7 +60,7 @@ fi
 
 #Install SSR and SSR-Bash
 cd /usr/local
-git clone https://github.com/koolshare/shadowsocksr.git
+git clone https://github.com/shadowsocksrr/shadowsocksr.git
 git clone https://github.com/bingling001/SSR-Bash-Python.git
 git clone https://github.com/${GH_REPO}.git
 cd /usr/local/shadowsocksr
